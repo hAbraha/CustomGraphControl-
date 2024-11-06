@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\CustomGraphControl Assignment2\CustomGraphControl Assignment2\bin\Debug\net8.0-windows\CustomGraphControl Assignment2.exe
+C:\Users\user\Desktop\CustomGraphControl Assignment2\CustomGraphControl Assignment2\bin\Debug\net8.0-windows\CustomGraphControl Assignment2.deps.json
+C:\Users\user\Desktop\CustomGraphControl Assignment2\CustomGraphControl Assignment2\bin\Debug\net8.0-windows\CustomGraphControl Assignment2.runtimeconfig.json
+C:\Users\user\Desktop\CustomGraphControl Assignment2\CustomGraphControl Assignment2\bin\Debug\net8.0-windows\CustomGraphControl Assignment2.dll
+C:\Users\user\Desktop\CustomGraphControl Assignment2\CustomGraphControl Assignment2\bin\Debug\net8.0-windows\CustomGraphControl Assignment2.pdb
+C:\Users\user\Desktop\CustomGraphControl Assignment2\CustomGraphControl Assignment2\obj\Debug\net8.0-windows\CustomGraphControl_Assignment2.Form1.resources
+C:\Users\user\Desktop\CustomGraphControl Assignment2\CustomGraphControl Assignment2\obj\Debug\net8.0-windows\CustomGraphControl_Assignment2.PieChartControl.resources
+C:\Users\user\Desktop\CustomGraphControl Assignment2\CustomGraphControl Assignment2\obj\Debug\net8.0-windows\CustomGraphControl Assignment2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CustomGraphControl Assignment2\CustomGraphControl Assignment2\obj\Debug\net8.0-windows\CustomGraphControl Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CustomGraphControl Assignment2\CustomGraphControl Assignment2\obj\Debug\net8.0-windows\CustomGraphControl Assignment2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CustomGraphControl Assignment2\CustomGraphControl Assignment2\obj\Debug\net8.0-windows\CustomGraphControl Assignment2.AssemblyInfo.cs
+C:\Users\user\Desktop\CustomGraphControl Assignment2\CustomGraphControl Assignment2\obj\Debug\net8.0-windows\CustomGraphControl Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CustomGraphControl Assignment2\CustomGraphControl Assignment2\obj\Debug\net8.0-windows\CustomGraphControl Assignment2.dll
+C:\Users\user\Desktop\CustomGraphControl Assignment2\CustomGraphControl Assignment2\obj\Debug\net8.0-windows\refint\CustomGraphControl Assignment2.dll
+C:\Users\user\Desktop\CustomGraphControl Assignment2\CustomGraphControl Assignment2\obj\Debug\net8.0-windows\CustomGraphControl Assignment2.pdb
+C:\Users\user\Desktop\CustomGraphControl Assignment2\CustomGraphControl Assignment2\obj\Debug\net8.0-windows\CustomGraphControl Assignment2.genruntimeconfig.cache
+C:\Users\user\Desktop\CustomGraphControl Assignment2\CustomGraphControl Assignment2\obj\Debug\net8.0-windows\ref\CustomGraphControl Assignment2.dll
